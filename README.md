@@ -1,7 +1,7 @@
 # Toronto Island Ferry Traffic Analysis
 
 ## Background
-This project combines my passion for data and my love for Toronto Island. As a Toronto resident who often visits the island, I recently noticed long ferry wait times and was curious about the factors behind them. By exploring and analyzing real-world data, I aimed to identify trends and showcase my skills as an early-career data scientist.
+This project combines my passion for data and my love for Toronto Island. As a Toronto resident who often visits the island, I recently noticed long ferry wait times and was curious about the factors behind them. By exploring and analyzing real-world data, I aimed to identify trends and showcase my skills as a data scientist.
 
 ## Project Goal
 Earlier this year, ferry wait times reached record levels. I wanted to find out: Were we actually experiencing record-breaking visitor numbers, or was something else driving these delays?
@@ -55,4 +55,4 @@ Future analyses could explore:
 - Comparisons with water taxi usage to gain additional insights into visitor behavior.
 
 ## About Me
-I'm an early-career data scientist, eager to bring value to projects that blend data and real-world impact. If you have any advice or would like to discuss data science further, I’d love to connect over a coffee chat!
+I'm Ziyi, a data scientist eager to bring value to projects that blend data and real-world impact. If you have any advice or would like to discuss data science further, I’d love to connect over a coffee chat!
