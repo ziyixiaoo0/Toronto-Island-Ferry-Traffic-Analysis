@@ -6,7 +6,7 @@ This project combines my passion for data and my love for Toronto Island. As a T
 ## Project Goal
 Earlier this year, ferry wait times reached record levels. I wanted to find out: Were we actually experiencing record-breaking visitor numbers, or was something else driving these delays?
 
-![Lineup](images/lineup.jpg)
+![Lineup](images/lineup.jpeg)
 
 ## Data Source
 The analysis is based on open data from the City of Toronto:
